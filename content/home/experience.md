@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Graduate Student Researcher
     company: UC Davis
-    company_url: ''
+    company_url: 'https://ece.ucdavis.edu/'
     company_logo: org-gc
     location: California
     date_start: '2018-10-01'
