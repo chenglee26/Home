@@ -17,13 +17,13 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 90%
-    icon: r-project
-    icon_pack: fab
-    name: R
-  - description: 100%
-    icon: chart-line
+    icon: wave-sine
     icon_pack: fas
-    name: Statistics
+    name: RF/mm-Wave Simulation
+  - description: 90%
+    icon: brain-circuit
+    icon_pack: fas
+    name: Circuit
   - description: 10%
     icon: camera-retro
     icon_pack: fas
