@@ -4,9 +4,9 @@ role: Ph.D. Candidate in Electrical Engineering
 avatar_filename: me.jpg
 bio: My research interests include RF/mmWave integrated circuit and system design
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - RF/mmWave Integrated Circuit
+  - Wireless Tranceiver
+  - Frequency Synthesizer
 social:
   - icon: envelope
     icon_pack: fas
