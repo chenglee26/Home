@@ -22,28 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Graduate Student Researcher
+    company: UC Davis
     company_url: ''
     company_logo: org-gc
     location: California
-    date_start: '2021-01-01'
+    date_start: '2018-10-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Projects include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Millimeter-wave QFSK Transceiver for Low Power and High-Speed Wireless Communication in Silicon
+        * Low-power Low-Phase-Noise Frequency synthesizer For space atomic clock application
+        * 300-GHz Low-Phase-Noise Frequency synthesizer
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Research Assistnat 
+    company: State Key Laboratory of Analog and Mixed-Signal VLSI, University of Macau 
+    company_url: 'https://ime.um.edu.mo/'
     company_logo: org-x
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2014-10-01'
+    date_end: '2018-06-31'
+    description: |2-
+        Projects include:
+        
+        * LDO and Reference buffer design for 11-bit 150-MS/s SAR ADCs 
+        * Analysis of Reference Errors in High-Speed SAR ADC with Capacitive DAC
 
 design:
   columns: '2'
