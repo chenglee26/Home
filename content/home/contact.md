@@ -25,28 +25,23 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: icli@ucdavis.edu
+  phone: 530 979 3284
   address:
-    street: 450 Serra Mall
-    city: Stanford
+    street: 2064 Kemper Hall, 1 Shield Ave.
+    city: Davis
     region: CA
-    postcode: '94305'
+    postcode: '95616'
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '38.5449'
+    longitude: '-122.740517'
+  directions: Enter Kemper Hall and take the stairs to Office on Floor 3
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+    - 'by Appointment'
   appointment_url: 'https://calendly.com'
   contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
     - icon: video
       icon_pack: fas
       name: Zoom Me
