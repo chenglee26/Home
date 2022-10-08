@@ -25,7 +25,7 @@ education:
     - course: Ph.D Candidate in Electrical Engineering
       institution: University of California, Davis
       year: 2021
-    - course: M.Sc. in Electrical and Computer Engineering
+    - course: M.Sc. in Electrical & Computer Engineering
       institution: University of Macau
       year: 2018
     - course: B.Eng. in Microelectronics
