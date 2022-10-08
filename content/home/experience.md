@@ -25,7 +25,7 @@ experience:
   - title: Graduate Student Researcher
     company: UC Davis
     company_url: 'https://ece.ucdavis.edu/'
-    company_logo: org-gc
+    company_logo: ucdavis
     location: California
     date_start: '2018-10-01'
     date_end: ''
