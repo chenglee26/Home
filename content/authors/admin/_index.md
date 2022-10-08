@@ -1,7 +1,7 @@
 ---
 title: Cheng Li
 role: Ph.D. Candidate in Electrical Engineering
-avatar_filename: me.jpg
+avatar_filename: ""
 bio: My research interests include RF/mmWave integrated circuit and system design
 interests:
   - RF/mmWave Integrated Circuit
