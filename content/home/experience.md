@@ -25,7 +25,7 @@ experience:
   - title: Graduate Student Researcher
     company: UC Davis
     company_url: 'https://ece.ucdavis.edu/'
-    company_logo: ucdavis_gold
+    company_logo: ucdavis
     location: California
     date_start: '2018-10-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Research Assistnat 
     company: State Key Laboratory of Analog and Mixed-Signal VLSI, University of Macau 
     company_url: 'https://ime.um.edu.mo/'
-    company_logo: org-x
+    company_logo: UM
     location: California
     date_start: '2014-10-01'
     date_end: '2018-07-30'
