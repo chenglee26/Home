@@ -18,11 +18,11 @@ subtitle:
 feature:
   - description: 80%
     icon: wave-sine
-    icon_pack: fas
+    icon_pack: fab
     name: RF/mm-Wave Simulation
   - description: 90%
     icon: brain-circuit
-    icon_pack: fas
+    icon_pack: fab
     name: Circuit
   - description: 5%
     icon: camera-retro
