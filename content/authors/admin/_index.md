@@ -37,8 +37,10 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
+
+
 Cheng Li received the B.Eng degree in Microelectronic from [ Sun Yat-Sen University](http://www.sysu.edu.cn/), Guangzhou, China, in 2014, and M.Sc. degree in Electrical and Computer Engineering, [University of Macau](http://www.umac.mo/), Macau, China, in 2018. He is currently pursuing his Ph.D. degree in Electrical and Computer Engineering, [University of California, Davis](https://www.ucdavis.edu/), CA, USA. 
 
 His current research interest is RF/mmWave integrated circuit design. He is now with [Prof. Omeed Momeni's group](https://faculty.engineering.ucdavis.edu/momeni/lab-members/) as a graduate student researcher.
 
-He was with the [State key Laboratory of Analog and Mixed-signal VLSI (AMSV)](https://ime.um.edu.mo/), University of Macau, during Aug. 2014 - Jun. 2018, where his research interest included analog and mixed-signal IC design, with a focus on the power management in high-speed Successive-approximation (SAR) ADC design, such as Low-dropout regulator (LDO) and reference buffers.
+He was with the [State key Laboratory of Analog and Mixed-signal VLSI (AMSV)](https://ime.um.edu.mo/), University of Macau, during Aug. 2014 - Jun. 2018, where his research interest included analog and mixed-signal IC design, with a focus on the power management in high-speed & -resolution Successive-approximation (SAR) ADC design, such as Low-dropout regulator (LDO) and reference buffers.
