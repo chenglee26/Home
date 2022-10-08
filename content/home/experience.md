@@ -42,7 +42,7 @@ experience:
     company_logo: org-x
     location: California
     date_start: '2014-10-01'
-    date_end: '2018-06-31'
+    date_end: '2018-07-30'
     description: |2-
         Projects include:
         
