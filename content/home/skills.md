@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
+  - description: 80%
     icon: wave-sine
     icon_pack: fas
     name: RF/mm-Wave Simulation
@@ -24,7 +24,7 @@ feature:
     icon: brain-circuit
     icon_pack: fas
     name: Circuit
-  - description: 10%
+  - description: 5%
     icon: camera-retro
     icon_pack: fas
     name: Photography
