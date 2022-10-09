@@ -1,13 +1,17 @@
 ---
-title: "An example journal article"
+title: "Analysis of Reference Error in High-Speed SAR ADCs with Capacitive DAC"
 authors:
 - admin
-- Robert Ford
+- 'Chi-Hang Chan'
+- 'Yan Zhu'
+- 'Rui P. Martins'
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- "First author"
+- "Corresponding author"
+- "author"
+- "author"
+date: "2018-07-17T00:00:00Z"
+doi: "10.1109/TCSI.2018.2861835"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,13 +23,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS–I: REGULAR PAPERS"
+publication_short: "IEEE TCAS-1"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The high-speed successive-approximation-register (SAR) analog-to-digital converters (ADCs) rely on the switched capacitive digital-to-analog converter (CDAC) to perform the fast transition, which causes voltage ripples at the output of the reference circuits. Such ripples lead to the reference error that eventually prolongs the time for DAC settling. To minimize such error with a short available time, it either demands a power-hungry reference buffer or large die area for the decoupling. In this paper, we offer a comprehensive analysis of the reference errors in SAR ADCs with a practical reference network circuit (RNC) in consideration. A circuit model is developed in order to quantify the error amplitude for the critical DAC settling condition. Based on the proposed model, the settling behavior of the DAC with reference buffer can be precisely characterized, leading to a better understanding about the design tradeoff of the RNC. Finally, the developed model is verified by both circuit level simulations and measurement results.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A comprehensive analysis of the reference errors in SAR ADCs with a practical reference network circuit (RNC) in consideration.
 
 tags:
 - Source Themes
@@ -35,12 +39,12 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://ieeexplore.ieee.org/abstract/document/8439075'
 url_video: ''
 
 # Featured image
