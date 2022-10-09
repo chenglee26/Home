@@ -28,9 +28,9 @@ content:
     - name: All
       tag: '*'
     - name: RF & mmWave 
-      tag: RF & mmWave
+      tag: 'mmWave'
     - name: Other
-      tag: Mixed Signal
+      tag: 'Mixed Signal'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
