@@ -27,10 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: RF & mmWave 
+    - name: RF/mmWave 
       tag: 'mmWave'
     - name: Other
-      tag: 'Mixed Signal'
+      tag: 'Mixed-signal'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
