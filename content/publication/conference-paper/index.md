@@ -1,23 +1,25 @@
 ---
-title: 'An example conference paper'
+title: 'A 17 Gb/s 10.7 pJ/b 4FSK Transceiver System for Point to Point Communication in 65 nm CMOS'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - 'Hamidreza Afzal'
   - admin
-  - Robert Ford
+  - 'Omeed Momeni'
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
+  - 'Equal contribution'
+ 
+date: '2022-06-19T00:00:00Z'
+doi: '10.1109/RFIC54546.2022.9863100'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2020-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,13 +28,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *2022 IEEE Radio Frequency Integrated Circuits Symposium*
+publication_short: In *IEEE RFIC 2022*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper presents a novel 145–185 GHz transceiver (TRX) with 4 frequency-shift keying (4FSK) modulation. The proposed non-coherent 4FSK design removes the need for separate modulator and demodulator blocks reducing the power consumption and complexity. The proposed TX generates four different RF frequencies based on the two parallel streams of binary input data, and the RX employs a slot power divider to divide the 4FSK RF signal into two paths, where the 4FSK RF signal is demodulated and data is recovered by enveloped detectors and digital buffers. Both the transmitter and receiver are fabricated in a 65 nm CMOS technology with a total core area of 0.6 mm2 . The TRX architecture achieves 17 Gb/s over 18 cm link distance while consuming only 182 mW power.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A novel 145–185 GHz transceiver (TRX) with 4 frequency-shift keying (4FSK) modulation.
 
 tags: []
 
@@ -45,18 +47,18 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+url_source: 'https://ieeexplore.ieee.org/abstract/document/9863100'
+# url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
@@ -66,14 +68,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example
+  - 4FSK transceiver
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 {{% callout note %}}
