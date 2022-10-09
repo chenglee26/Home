@@ -36,6 +36,19 @@ experience:
         * Low-power Low-Phase-Noise Frequency synthesizer For space atomic clock application
         * 300-GHz Low-Phase-Noise Frequency synthesizer
 
+  - title: Teaching Assistant
+    company: UC Davis
+    company_url: 'https://ece.ucdavis.edu/'
+    company_logo: ucdavis_2
+    location: California
+    date_start: '2018-10-01'
+    date_end: ''
+    description: |2-
+        Courses include:
+        
+        * ENG 017: Circuit I / EEC 100: Circuit II / EEC 110B: Electronic Circuit II
+        * Average Evaluation Score: 4.2/5
+
   - title: Research Assistnat 
     company: State Key Laboratory of Analog and Mixed-Signal VLSI, University of Macau 
     company_url: 'https://ime.um.edu.mo/'
