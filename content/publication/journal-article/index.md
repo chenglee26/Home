@@ -14,8 +14,8 @@ abstract: The high-speed successive-approximation-register (SAR)
   leading to a better understanding about the design tradeoff of the RNC.
   Finally, the developed model is verified by both circuit level simulations and
   measurement results.
-slides: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+# slides: ""
+url_pdf: journal-paper
 publication_types:
   - "2"
 authors:
