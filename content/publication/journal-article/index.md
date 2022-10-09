@@ -15,7 +15,7 @@ abstract: The high-speed successive-approximation-register (SAR)
   Finally, the developed model is verified by both circuit level simulations and
   measurement results.
 # slides: ""
-url_pdf: "content/publication/journal-article/journal-paper.pdf"
+url_pdf: "https://github.com/chenglee26/Home/blob/74381306ff1569b2fc59a8c376b4fdf3b63fd6ac/content/publication/journal-article/journal-paper.pdf"
 publication_types:
   - "2"
 authors:
