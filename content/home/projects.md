@@ -30,7 +30,7 @@ content:
     - name: RF & mmWave 
       tag: RF & mmWave
     - name: Other
-      tag: Demo
+      tag: Mixed Signal
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
