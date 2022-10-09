@@ -8,7 +8,7 @@ external_link: "https://ieeexplore.ieee.org/abstract/document/8439075"
 url_slides: ""
 title: Study of LDO & Reference Buffer for high-speed and -resolution SAR ADC
 tags:
-  - Mixed signal
+  - Mixed-signal
 links: []
 image:
   caption: ""
